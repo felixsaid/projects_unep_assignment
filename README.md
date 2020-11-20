@@ -8,3 +8,5 @@ To install the Node JS application:
   3. Run npm install
   4. Run the applicatio with node index.js and for nodemon users use nodemon index.js
   5. The application is ready for testing.
+  
+ NOTE: Kindly import the database (project_db) for smooth testing of the APIs
